@@ -1,0 +1,2 @@
+# laravel-summaries
+Class activity
